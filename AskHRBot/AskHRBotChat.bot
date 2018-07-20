@@ -1,0 +1,15 @@
+{
+    "name": "AskHRBotChat",
+    "description": "",
+    "secretKey": "",
+    "services": [
+        {
+            "appId": "",
+            "id": "469d4e10-8b57-11e8-a096-b3d04671e5c7",
+            "type": "endpoint",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "name": "http://localhost:3978/api/messages"
+        }
+    ]
+}
